@@ -1,8 +1,3 @@
-Okay, I understand. You'd like to incorporate information from the Hurricane Labs article on deploying the Splunk Universal Forwarder on Windows into your "Insider Threat Detection Using Log Analysis" project's README, specifically within the "Ubuntu and Windows Configuration" section.
-
-Since I cannot directly access external websites or specific files within them, I'll provide you with general points and common practices discussed in such articles that you can adapt and integrate into your README. You'll need to refer to the Hurricane Labs article yourself to extract the precise details you want to include.
-
-Here are some aspects from the Hurricane Labs article on Windows deployment that you might want to weave into your README:
 
 -----
 
