@@ -44,19 +44,6 @@ sudo /opt/splunkforwarder/bin/splunk add forward-server <SPLUNK_SERVER_IP>:9997
 ```
 
 ````
-## Windows Configuration for Log Collection
-
-### 1. Installing Splunk Universal Forwarder on Windows
-
-* Download the appropriate Splunk Universal Forwarder MSI installer from the Splunk website.
-* You can perform a silent installation using `msiexec.exe`. For example, to install to `C:\SplunkForwarder` and configure the Splunk server:
-
-    ```bash
-    msiexec.exe /i splunkforwarder-x.x.x-xxxxxxx-x64.msi INSTALLDIR="C:\SplunkForwarder" AGREETOLICENSE=Yes RECEIVING_INDEXER="<SPLUNK_SERVER_IP>:9997" /qn
-    ```
-
-*(Continue with other Windows-specific points as outlined above)*
-````
 
 **To effectively integrate the content from the Hurricane Labs article:**
 
